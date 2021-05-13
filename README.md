@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @exsrch
 - 👀 I’m interested in coding and flying airplanes
-- 🌱 I’m currently learning to code at App Academy
 - 💞️ I’m looking to collaborate on Edtech
 - 📫 How to reach me ...
 
