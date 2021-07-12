@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @exsrch
+- 👋 Hi, I’m Adam Oak
 - 👀 I’m interested in coding and flying airplanes
 - 💞️ I’m looking to collaborate on Edtech
 - 📫 How to reach me ...
